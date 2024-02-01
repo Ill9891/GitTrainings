@@ -4,9 +4,9 @@ namespace GitTrainings
 {
     class Program
     {
-        static void Test()
+        public void Test()
         {
-            Console.WriteLine("Test");
+
         }
     }
 }
