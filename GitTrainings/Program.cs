@@ -4,9 +4,22 @@ namespace GitTrainings
 {
     class Program
     {
-        public void Test()
+        private int y = 0;
+
+        public void Test2()
         {
-            Sum(10, 11);
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+
+            Sum(y, 9);
+        }
+
+        public void Test1()
+        {
+            Sum(10000, 112);
         }
 
         static int Sum(int x, int y)
