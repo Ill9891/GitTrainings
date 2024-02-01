@@ -6,7 +6,7 @@ namespace GitTrainings
     {
         public void Test()
         {
-
+            Sum(10, 11);
         }
 
         static int Sum(int x, int y)
