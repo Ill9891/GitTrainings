@@ -4,9 +4,9 @@ namespace GitTrainings
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Test()
         {
-            Console.WriteLine("GIT Trainings!");
+            Console.WriteLine("Test");
         }
     }
 }
